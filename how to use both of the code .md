@@ -1,4 +1,4 @@
-o use both of the code together, you can start by copying the first code block and pasting it into your Python file. 
+To use both of the code together, you can start by copying the first code block and pasting it into your Python file. 
 Then, you can copy the second code block and paste it below the first code block in the same file.
 
 You will then need to make sure that any variables or functions that are defined in the first code block are not redefined in the second code block. 
